@@ -1,0 +1,6 @@
+c:\users\piotr\documents\visual studio 2015\Projects\IO_Lab3_TAP\IO_Lab3_TAP\bin\Debug\IO_Lab3_TAP.exe.config
+C:\Users\Piotr\documents\visual studio 2015\Projects\IO_Lab3_TAP\IO_Lab3_TAP\obj\Debug\IO_Lab3_TAP.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\documents\visual studio 2015\Projects\IO_Lab3_TAP\IO_Lab3_TAP\bin\Debug\IO_Lab3_TAP.exe
+C:\Users\Piotr\documents\visual studio 2015\Projects\IO_Lab3_TAP\IO_Lab3_TAP\bin\Debug\IO_Lab3_TAP.pdb
+C:\Users\Piotr\documents\visual studio 2015\Projects\IO_Lab3_TAP\IO_Lab3_TAP\obj\Debug\IO_Lab3_TAP.exe
+C:\Users\Piotr\documents\visual studio 2015\Projects\IO_Lab3_TAP\IO_Lab3_TAP\obj\Debug\IO_Lab3_TAP.pdb

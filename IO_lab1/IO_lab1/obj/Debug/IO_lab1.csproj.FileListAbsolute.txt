@@ -1,0 +1,6 @@
+c:\users\piotr\documents\visual studio 2015\Projects\IO_lab1\IO_lab1\bin\Debug\IO_lab1.exe.config
+c:\users\piotr\documents\visual studio 2015\Projects\IO_lab1\IO_lab1\bin\Debug\IO_lab1.exe
+c:\users\piotr\documents\visual studio 2015\Projects\IO_lab1\IO_lab1\bin\Debug\IO_lab1.pdb
+c:\users\piotr\documents\visual studio 2015\Projects\IO_lab1\IO_lab1\obj\Debug\IO_lab1.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2015\Projects\IO_lab1\IO_lab1\obj\Debug\IO_lab1.exe
+c:\users\piotr\documents\visual studio 2015\Projects\IO_lab1\IO_lab1\obj\Debug\IO_lab1.pdb
